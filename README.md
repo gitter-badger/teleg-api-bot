@@ -1,5 +1,7 @@
 # teleg-api-bot
 
+[![Join the chat at https://gitter.im/LibreLabUCM/teleg-api-bot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LibreLabUCM/teleg-api-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Telegram Api for new bot system
 
 ## Getting started
